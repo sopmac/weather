@@ -1,0 +1,94 @@
+﻿/*--  Some very basic styles, please customise as necessary --*/
+
+.container {
+	width: 190px;
+}
+
+.container .vertical {
+	clear: both;
+	margin-top: 20px;
+}
+.weatherFeed {
+	font-size: 90%;
+	position: relative;
+	top: 0;
+}
+.weatherFeed h3 {
+	margin-bottom: 0;
+}
+.weatherFeed a { color: #888; }
+.weatherFeed a:hover {
+	color: #000;
+	text-decoration: none;
+}
+.weatherItem {
+	text-align: right;
+	height: 135px;
+	display: none;
+	background-position-x: -5px;
+	background-position-y: -10px;
+}
+
+.weatherItem:first-child {
+	display: block;
+}
+
+.weatherItem > div { 
+	margin-bottom: 10px;
+}
+.weatherCity { text-transform: uppercase; }
+.weatherTemp {
+	font-size: 2.8em;
+	font-weight: bold;
+}
+.weatherDesc, .weatherCity { font-weight: bold; }
+.weatherDesc { margin-bottom: 0.4em; }
+.weatherRange, .weatherWind { font-size: 0.8em; }
+.weatherLink {
+	text-align: left;
+	font-size: 0.8em;
+}
+
+.weatherItem .weather-details {
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 0;
+	text-align: left;
+	background: rgba(255,255,255,0.5);
+}
+
+.vertical {
+	position: relative;
+	overflow: hidden;
+}
+
+.toggle-unit {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	float: right;
+}
+
+.toggle-unit li {
+	float: left;
+}
+.toggle-unit li a {
+	font-weight: bold;
+	color: #fff;
+	background: #ccc;
+	padding: 5px 0;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin-left: 2px;
+	width: 15px;
+	display: block;
+	text-align: center
+}
+.toggle-unit .active {
+	background: #C0DE7A;
+}
+.weather select {
+	width: 165px;
+}
+
