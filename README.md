@@ -3,7 +3,7 @@ weather
 
 Yahoo weather plugin, extended for Claromentis homepage weather
 
-[![](https://raw.github.com/Claromentis/weather/master/screenshot.png)](https://raw.github.com/Claromentis/weather/master/screenshot.png)
+[![](https://raw.github.com/Claromentis/cla-weather/master/screenshot.png)](https://raw.github.com/Claromentis/cla-weather/master/screenshot.png)
 
 To install copy :
 ```javascript
