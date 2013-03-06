@@ -15,7 +15,7 @@ Include the following files:
 	<!-- Custom JavaScript -->
 	<script src="js/functions.js"></script>	  
 ```
-Weather codes can be found here: <a href="http://edg3.co.uk/snippets/weather-location-codes/">Weather Location Codes/IDs</a>
+Weather codes can be found here: <a href="http://edg3.co.uk/snippets/weather-location-codes/" target="_blank">Weather Location Codes/IDs</a>
 
 You must call the pullWeather() function on page load, and changeWeather() on change for the weather select. See below for example:
 
@@ -74,3 +74,5 @@ See below for some example markup.
 	</div>
 
 ```
+
+Enjoy!
