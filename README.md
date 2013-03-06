@@ -7,7 +7,7 @@ Yahoo weather plugin, extended for Claromentis homepage weather
 
 Include the following files:
 
-```javascript
+```html
 	<!-- Basic styles for the componenet demo page found here -->
 	<link rel="stylesheet" href="css/jquery.zweatherfeed.css">
 	<!-- zweatherfeed is needed for this component to work -->
