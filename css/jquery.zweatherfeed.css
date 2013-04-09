@@ -1,10 +1,10 @@
 ﻿/*--  Some very basic styles, please customise as necessary --*/
 
-.container {
+.weatherContainer {
 	width: 190px;
 }
 
-.container .vertical {
+.weatherContainer .vertical {
 	clear: both;
 	margin-top: 20px;
 }

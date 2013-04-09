@@ -51,7 +51,7 @@ See below for some example markup.
 
 ```html
 
-	<div class="container">
+	<div class="weatherContainer">
 
 		<!-- This is the select box for the weather -->
 		<select id="selectWeather" class="input-large">
